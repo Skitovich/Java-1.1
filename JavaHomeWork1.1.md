@@ -9,18 +9,17 @@
 В результате тестирования выявлены следующие дефекты:
 * https://github.com/Skitovich/Java-1.1/issues/1
 * https://github.com/Skitovich/Java-1.1/issues/2
-* <ссылка на описание дефекта>
+* https://github.com/Skitovich/Java-1.1/issues/3
 
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты*:
 * Спецификация программного обеспечения.
 * Чек-лист
-* Тест-план
+* [Тест-план](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/report.md)
 
-*Примечание\*: не указывайте артефакты "для галочки". Если вы сюда напишите **тест-план**, то мы попросим вас его показать (а если не покажете - то отправим работу на доработку). Пишите только то, что реально существует и требуется в задании.*
 
-В качестве тестовых данных использовались данные [источник](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md):
+В качестве тестовых данных использовались  [данные](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md):
 
 Валидные ключи:
 * 8f05e6a7-70e9-33d7-bfe7-b19eae0d8998
@@ -41,21 +40,4 @@
 * Java 14
 
 
-1. Проверить версию Java, зайти в командную строку и ввести "Java -version", версия должна быть выше 8
-1. Установить [приложение](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/artifacts/KeyValidator.class).
-1. Запустить приложение.
-1. Ввести в командную строку "java KeyValidator 80b427f8-92cd-3aae-ba04-3927fbe17c6"
-
-Ожидаемый результат: Значение принимается, ответ приложения ОК
-Фактический результат: Значение не принимается, ответ приложения Fail
-
-1. Проверить версию Java, зайти в командную строку и ввести "Java -version" (версия должна быть 8 и выше)
-1. Установить [приложение](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/artifacts/KeyValidator.class).
-1. Запустить приложение.
-1. Ввести в командную строку "java KeyValidator 80b427f8-92cd-3aae-ba04-3927fbe17c6"
-
-Ожидаемый результат: Значение принимается, ответ приложения ОК
-Фактический результат: Значение не принимается, ответ приложения Fail
-
-https://github.com/Skitovich/Java-1.1/blob/master/bug.png
 
