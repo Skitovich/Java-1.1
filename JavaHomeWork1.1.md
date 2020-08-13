@@ -7,8 +7,8 @@
 На тестирование затрачено: 3 часа.
 
 В результате тестирования выявлены следующие дефекты:
-* https://github.com/Skitovich/Java-1.1/issues/1#issue-678666710
-* <ссылка на описание дефекта>
+* https://github.com/Skitovich/Java-1.1/issues/1
+* https://github.com/Skitovich/Java-1.1/issues/2
 * <ссылка на описание дефекта>
 
 ## Описание процесса тестирования
